@@ -45,12 +45,8 @@ The dataset contains customer transaction records with the following fields:
 ## 📈 Dashboard Preview
 👉 *(Add screenshots of your Power BI dashboard here – e.g. paste 2–3 JPG/PNG images)*
 
-- Revenue by Category  
-- Sales Trend Over Time  
-- Churn Distribution  
-- Returns vs Categories  
-- Segmentation by Age & Gender  
+- Revenue by Product Category  
+- Monthly Sales Trend  
+- Churn Distribution    
+- Customer Segment (Age/Gender)  
 
----
-
-## 🗂️ Project Structure
